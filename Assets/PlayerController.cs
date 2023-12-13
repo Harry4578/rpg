@@ -30,6 +30,5 @@ public class PlayerController : MonoBehaviour
             anim.speed = 0.0f;
         else
             anim.speed = 1.0f;
-
     }
 }
